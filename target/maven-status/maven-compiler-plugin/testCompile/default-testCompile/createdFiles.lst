@@ -1,0 +1,15 @@
+stepDefinitions\LoginSteps.class
+util\PageUtils.class
+hooks\BaseClass.class
+SeleniumDemos\AutoIt\FileUpload.class
+SeleniumDemos\Popups\AuthenticationPopup.class
+util\ExcelReader.class
+pageObjects\LoginPage.class
+util\BrowserFactory.class
+util\GeneratePersonDetails.class
+SeleniumDemos\Popups\PermissionPopup.class
+util\ConfigReader.class
+util\ExcelReader$1.class
+SeleniumDemos\AutoIt\FileDownload.class
+runner\TestRunner.class
+SeleniumDemos\Demo.class
